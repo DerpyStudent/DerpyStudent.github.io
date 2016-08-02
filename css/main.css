@@ -1,0 +1,67 @@
+body{
+	background-image: url(../img/ayyy.jpg);
+	background-size: cover;
+	
+
+
+
+
+}
+.main{
+	margin:auto;
+	width:60%;
+
+}
+
+@font-face {
+  font-family: 'Alba';
+  src: url('Alba.woff') format('woff'),
+       url('Alba.ttf') format('truetype'),
+       url('Alba.svg#Alba') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'alba.regular';
+  src: url('alba.regular.eot');
+  src: url('alba.regular.woff2') format('woff2'),
+       url('alba.regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/*section{
+	margin:auto;
+	width:60%;
+}*/
+
+body{
+	text-align: center;
+	color:white;
+}
+
+h1{
+	font-family: 'Alba';
+	font-size: 110px;
+	margin-bottom: auto;
+	margin-top:75px;
+	color:white;
+	text-align: center;
+}
+
+h3{
+	font-family:'helvetica Neue';
+	font-size:25px;
+	font-style:lighter;
+}
+.daydream{
+	font-family: 'noteworthy';
+}
+
+select{
+	-webkit-appearance: none;
+	font-size:25px;
+	
+}
