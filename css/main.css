@@ -3,7 +3,7 @@ body{
 	background-size: cover;
 	
 	background-repeat: no-repeat;
-	height:110%;
+	height:100vh;
 }
 
 a{
@@ -53,6 +53,7 @@ select{
 	-webkit-appearance: none;
 	font-size:25px;
 	border-color:white;
+	text-align-last:center;
 
 	
 }
@@ -75,13 +76,14 @@ select{
 
 .h2sub{
 	margin-top: 0px;
+	font
 }
 
 
 #submit{
 	margin-top: 30px;
 	border: 1px solid;
-	border-radius: 15px;
+	border-radius: 5px;
 	width:150px;
 	border-color:white;
 	background:none;

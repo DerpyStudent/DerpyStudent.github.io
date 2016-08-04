@@ -1,0 +1,35 @@
+#back{
+	margin-top: 30px;
+	border: 1px solid;
+	border-radius: 5px;
+	width:150px;
+	border-color:black;
+	background:none;
+	margin-bottom:25px;
+	padding: 10px 0px 10px 0px;
+	font-weight:200;
+	display:inline-block;
+	margin-left:25%;
+	font-family:'noteworthy';
+	
+	
+
+
+
+}
+ a{
+ 	color:black;
+ }
+
+ .img{
+ 	height:300px;
+ 	background-image: url("../img/beach1.jpeg");
+ 	background-size:50%;
+ 	background-position:center;
+ 	background-repeat:no-repeat;
+ 	;
+ }
+iframe{
+	margin-left:25%;
+	width:50%;
+}
