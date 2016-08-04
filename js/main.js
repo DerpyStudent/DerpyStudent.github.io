@@ -17,6 +17,15 @@ else if (sessionStorage.location == 'beach'){
 	// alert('yo');
 	$('#pic1').addClass('beach1');
 }
+else if (sessionStorage.location == 'city'){
+	// alert('yo');
+	$('#pic1').addClass('city1');
+}
+else if (sessionStorage.location == 'country'){
+	// alert('yo');
+	$('#pic1').addClass('country1');
+}
+
 
 
 
@@ -32,4 +41,12 @@ if (sessionStorage.subject == 'puppies'){
 else if (sessionStorage.subject == 'kittens'){
 	// alert('yo');
 	$('#pic2').addClass('kitten1');
+}
+else if (sessionStorage.subject == 'girls'){
+	// alert('yo');
+	$('#pic2').addClass('girl1');
+}
+else if (sessionStorage.subject == 'guys'){
+	// alert('yo');
+	$('#pic2').addClass('guy1');
 }
