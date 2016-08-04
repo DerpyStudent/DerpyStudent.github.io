@@ -2,9 +2,14 @@ body{
 	background-image: url(../img/dream2blur3.jpg);
 	background-size: cover;
 	
+	background-repeat: no-repeat;
+	height:110%;
+}
 
-
-
+a{
+	text-decoration: none;
+	color:white;
+}
 
 }
 .main{
@@ -13,23 +18,6 @@ body{
 
 }
 
-@font-face {
-  font-family: 'Alba';
-  src: url('Alba.woff') format('woff'),
-       url('Alba.ttf') format('truetype'),
-       url('Alba.svg#Alba') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'alba.regular';
-  src: url('alba.regular.eot');
-  src: url('alba.regular.woff2') format('woff2'),
-       url('alba.regular.eot?#iefix') format('embedded-opentype');
-  font-weight: normal;
-  font-style: normal;
-}
 
 
 /*section{
@@ -54,7 +42,8 @@ h1{
 h3{
 	font-family:'helvetica Neue';
 	font-size:25px;
-	font-style:lighter;
+	font-weight:200;
+	margin: 20px auto 20px auto;
 }
 .daydream{
 	font-family: 'noteworthy';
@@ -84,4 +73,21 @@ select{
    border-radius: 5px;
 }
 
+.h2sub{
+	margin-top: 0px;
+}
+
+
+#submit{
+	margin-top: 30px;
+	border: 1px solid;
+	border-radius: 15px;
+	width:150px;
+	border-color:white;
+	background:none;
+	margin-bottom:50px;
+	padding: 10px 0px 10px 0px;
+	font-weight:200;
+
+}
 
