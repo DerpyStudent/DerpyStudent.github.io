@@ -28,6 +28,13 @@
   	text-align: center;
   	padding-left:20px;
   	font-size:12px;
+
+}
+a:hover{
+	color:black;
+}
+.footer a:hover{
+	color:#4FD6FD;
 }
 /*footer{
 	height:10vh;
