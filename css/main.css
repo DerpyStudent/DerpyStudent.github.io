@@ -8,6 +8,27 @@
 	height:100%;
 
 }
+
+.main{
+	
+	margin:0px;
+}
+
+.footer{
+	height:6vh;
+	margin:none;
+	height:20px;
+	background-color:#533C4E;
+	opacity: 0.5;
+	position:absolute;
+	right: 0;
+  	bottom: 0;
+  	left: 0;
+  	padding: 1rem;
+  	text-align: center;
+  	padding-left:20px;
+  	font-size:12px;
+}
 /*footer{
 	height:10vh;
 }
@@ -15,16 +36,9 @@
 /*/*.parent{
 	padding-bottom:30px;
 }*/
-.footer{
-	height:20px;
-	background-color:black;
+/*.footer{
 	
-	position:absolute;
-	right: 0;
-  	bottom: 0;
-  	left: 0;
-  	padding: 1rem;
-}
+}*/
 a{
 	text-decoration: none;
 	color:white;
@@ -109,6 +123,6 @@ select{
 	margin-bottom:auto;
 	padding: 10px 0px 10px 0px;
 	font-weight:200;
-
+	font-size:20px;
 }
 

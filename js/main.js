@@ -48,7 +48,7 @@ else if (sessionStorage.subject == 'girl'){
 }
 else if (sessionStorage.subject == 'guy'){
 	// alert('yo');
-	$('#pic2').addClass('male1');
+	$('#pic2').addClass('male2');
 }
 
 
