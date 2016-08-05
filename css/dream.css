@@ -22,7 +22,7 @@
  }
 
  .imgd{
- 	height:300px;
+ 	height:400px;
  	/*background-image: url("../img/beach1.jpeg");*/
  	background-size:50%;
  	background-position:center;
@@ -37,6 +37,13 @@
  .mountain1{
 	background-image: url("../img/mountain1.jpeg");
 }
+ .city1{
+	background-image: url("../img/city1.jpeg");
+}
+ .country1{
+	background-image: url("../img/country1.jpg");
+}
+
 iframe{
 	margin-left:25%;
 	width:50%;
@@ -58,5 +65,11 @@ iframe{
 
 .kitten1{
 	background-image: url("../img/kitten1.jpeg");
+}
+ .female2{
+	background-image: url("../img/female2.jpeg");
+}
+ .male1{
+	background-image: url("../img/male1.jpeg");
 }
 

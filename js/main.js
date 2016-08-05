@@ -42,11 +42,14 @@ else if (sessionStorage.subject == 'kittens'){
 	// alert('yo');
 	$('#pic2').addClass('kitten1');
 }
-else if (sessionStorage.subject == 'girls'){
+else if (sessionStorage.subject == 'girl'){
 	// alert('yo');
-	$('#pic2').addClass('girl1');
+	$('#pic2').addClass('female2');
 }
-else if (sessionStorage.subject == 'guys'){
+else if (sessionStorage.subject == 'guy'){
 	// alert('yo');
-	$('#pic2').addClass('guy1');
+	$('#pic2').addClass('male1');
 }
+
+
+////cody is a bum
