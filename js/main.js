@@ -12,6 +12,10 @@ $('#submit').on('click', function(e){
 if (sessionStorage.location == 'mountain'){
 	// alert('yo');
 	$('#pic1').addClass('mountain1');
+	wait(100);
+	$('#pic1').removeClass('mountain1');
+	$('#pic1').addClass('mountain2');
+
 }
 else if (sessionStorage.location == 'beach'){
 	// alert('yo');
