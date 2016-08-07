@@ -27,6 +27,7 @@
  	background-size:50%;
  	background-position:center;
  	background-repeat:no-repeat;
+ 	transition: all .5s ease-in-out;
  	
  }
 
@@ -39,6 +40,9 @@
 }
 .mountain2{
 	background-image: url("../img/mountain2.jpeg");
+}
+.mountain3{
+	background-image: url("../img/mountain3.jpeg");
 }
  .city1{
 	background-image: url("../img/city1.jpeg");

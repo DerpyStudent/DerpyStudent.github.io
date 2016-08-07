@@ -11,10 +11,22 @@ $('#submit').on('click', function(e){
 
 if (sessionStorage.location == 'mountain'){
 	// alert('yo');
+	
+
+	var delay=2500;
 	$('#pic1').addClass('mountain1');
-	wait(100);
-	$('#pic1').removeClass('mountain1');
-	$('#pic1').addClass('mountain2');
+	
+	setTimeout(function(){
+		$('#pic1').removeClass('mountain1');
+		$('#pic1').addClass('mountain2');
+	},1000);
+	var delay=2500;
+	setTimeout(function(){
+		$('#pic1').removeClass('mountain2');
+		$('#pic1').addClass('mountain3');
+	},delay);
+
+	
 
 }
 else if (sessionStorage.location == 'beach'){
