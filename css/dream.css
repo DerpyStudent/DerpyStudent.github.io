@@ -127,4 +127,12 @@ iframe{
 	background-image: url("../img/male3.jpeg");
 }
 
+@media (max-width: 800px) {
+	.imgd{
+		
+		
+	}
+	
+
+}
 
