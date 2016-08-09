@@ -20,30 +20,30 @@
 
 .mySlides {display:none;
 }
- a{
- 	color:black;
- }
+a{
+	color:black;
+}
 #pic1{
 }
 .imgd{
- 	height:400px;
- 	/*background-image: url("../img/beach1.jpeg");*/
- 	background-size:50%;
- 	background-position:center;
- 	background-repeat:no-repeat;
- 	transition: all .3s ease-in-out;
- 	
- }
+	height:400px;
+	/*background-image: url("../img/beach1.jpeg");*/
+	background-size:50%;
+	background-position:center;
+	background-repeat:no-repeat;
+	transition: all .3s ease-in-out;
+	
+}
 
 .beach1{
- 	background-image: url("../img/beach1.jpeg");
- }
- .beach2{
- 	background-image: url("../img/beach2.jpeg");
- }
- .beach3{
- 	background-image: url("../img/beach3.jpeg");
- }
+	background-image: url("../img/beach1.jpeg");
+}
+.beach2{
+	background-image: url("../img/beach2.jpeg");
+}
+.beach3{
+	background-image: url("../img/beach3.jpeg");
+}
 
 .mountain1{
 	background-image: url("../img/mountain1.jpeg");
@@ -54,16 +54,16 @@
 .mountain3{
 	background-image: url("../img/mountain3.jpeg");
 }
- .city1{
+.city1{
 	background-image: url("../img/city1.jpeg");
 }
- .city2{
+.city2{
 	background-image: url("../img/city2.jpeg");
 }
- .city3{
+.city3{
 	background-image: url("../img/city3.jpeg");
 }
- .country1{
+.country1{
 	background-image: url("../img/country1.jpg");
 }
 .country2{
@@ -86,53 +86,53 @@ iframe{
  	background-repeat:no-repeat;
  	;
  }
-*/
+ */
 
-.puppy1{
-	background-image: url("../img/puppy1.jpeg");
-}
-.puppy2{
-	background-image: url("../img/puppy2.jpeg");
-}
-.puppy3{
-	background-image: url("../img/puppy3.jpeg");
-}
+ .puppy1{
+ 	background-image: url("../img/puppy1.jpeg");
+ }
+ .puppy2{
+ 	background-image: url("../img/puppy2.jpeg");
+ }
+ .puppy3{
+ 	background-image: url("../img/puppy3.jpeg");
+ }
 
-.kitten1{
-	background-image: url("../img/kitten1.jpeg");
-}
-.kitten2{
-	background-image: url("../img/kitten2.jpeg");
-}
-.kitten3{
-	background-image: url("../img/kitten3.jpeg");
-}
-.female1{
-	background-image: url("../img/female1.jpeg");
-}
+ .kitten1{
+ 	background-image: url("../img/kitten1.jpeg");
+ }
+ .kitten2{
+ 	background-image: url("../img/kitten2.jpeg");
+ }
+ .kitten3{
+ 	background-image: url("../img/kitten3.jpeg");
+ }
+ .female1{
+ 	background-image: url("../img/female1.jpeg");
+ }
  .female2{
-	background-image: url("../img/female2.jpeg");
-}
-.female3{
-	background-image: url("../img/female3.jpeg");
-}
+ 	background-image: url("../img/female2.jpeg");
+ }
+ .female3{
+ 	background-image: url("../img/female3.jpeg");
+ }
  .male1{
-	background-image: url("../img/male1.jpeg");
-}
+ 	background-image: url("../img/male1.jpeg");
+ }
  .male2{
-	background-image: url("../img/male2.jpeg");
-}
+ 	background-image: url("../img/male2.jpeg");
+ }
 
  .male3{
-	background-image: url("../img/male3.jpeg");
-}
+ 	background-image: url("../img/male3.jpeg");
+ }
 
-@media (max-width: 800px) {
-	.imgd{
-		
-		
-	}
-	
+ @media (max-width: 800px) {
+ 	.imgd{
+ 		
+ 		
+ 	}
+ 	
 
-}
+ }
 
